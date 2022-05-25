@@ -1,4 +1,7 @@
+
 #include <iostream>
+using namespace std;
+/*
 #include <vector>
 #include <algorithm>
 using namespace std;
@@ -84,5 +87,12 @@ int main(){
 	station->registerObserver(new forecast());
 	station->registerObserver(new currentCondition());
 	station->notifyObserver("statistics");
+	return 0;
+}
+*/
+int main()
+{
+
+	cout << "f";
 	return 0;
 }
